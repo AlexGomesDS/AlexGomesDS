@@ -7,7 +7,7 @@ I'm Alex! I'm a Data Scientist from Lisbon who loves to use my skills to make a 
 - 😀 What gets me excited: 🎾  🏃  🚴‍♂️ 🏄  ⛵️  ☕️  📕  ✈️  ⛺️  🌞
 
 ### Projects
-#### [https://github.com/AlexGomesDS/lisbon-ebike](Lisbon e-bikes usage insights)
+#### E-bikes [https://github.com/AlexGomesDS/lisbon-ebike](Lisbon_e-bikes_usage_insights)
 During a month-long period, I monitored the usage of publicly available Gira e-bikes throughout Lisbon by regularly querying their API for bike availability data at various collection points across the city. 
 Using Jupyter notebooks, I analyzed the collected data, generated forecasts, and extracted insights. 
 An interesting one was the clear identification of a migration of bikes from the outskirts and areas near train stations towards the city center in the morning, and vice versa in the evening.
