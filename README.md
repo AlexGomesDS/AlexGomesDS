@@ -21,3 +21,7 @@ Python · SQL · Spark · LightGBM · scikit-learn · BigQuery · Snowflake · A
 ### About me
 
 I'm interested in applying quantitative methods and software engineering to consequential problems across supply chains, sustainability, energy, mobility, and resource efficiency.
+
+### Connect
+
+[LinkedIn](https://uk.linkedin.com/in/alexgomes3)
