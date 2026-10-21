@@ -1,30 +1,23 @@
-### Olá! 👋
-Welcome to my Github profile (🚧 under construction).
+# Alex Gomes
+### Senior Data Scientist · Forecasting, Optimisation & Applied ML
 
-I'm Alex! I'm a Data Scientist from Lisbon who loves to use my skills to make a positive impact in society.
+I build data-driven systems that turn uncertainty into better operational decisions.
 
-- 🔭 Looking for a job in a field with high impact in sustainability such as renewable energies or agritech. 
-- 🌱 I’m currently learning Deep Learning, NLP and Google Cloud thtough highly aclaimed courses.
-- 😀 What gets me excited: 🎾  🏃  🚴‍♂️ 🏄  ⛵️  ☕️  📕  ✈️  ⛺️  🌞
+With 8+ years of experience across data science, engineering, and production ML, I work on forecasting, predictive modelling, and data systems that help teams make better decisions. My experience spans demand forecasting, recommender systems, behavioural prediction, and production data pipelines.
 
-### Projects
-#### [Lisbon E-bikes insights](https://github.com/AlexGomesDS/lisbon-ebike)
-During a month-long period, I monitored the usage of publicly available Gira e-bikes throughout Lisbon by regularly querying their API for bike availability data at various collection points across the city. 
-Using Jupyter notebooks, I analyzed the collected data, generated forecasts, and extracted insights. 
-An interesting one was the clear identification of a migration of bikes from the outskirts and areas near train stations towards the city center in the morning, and vice versa in the evening.
+I combine statistical modelling with pragmatic software engineering to solve real-world problems and deliver measurable impact.
 
-Status: 🚧 ongoing
-<!--
-**AlexGomesDS/AlexGomesDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Core interests:** Probabilistic forecasting · Operations research · Inventory optimisation · Applied ML · Reliable ML systems
 
-Here are some ideas to get you started:
+### Selected project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Lisbon E-bikes Insights](https://github.com/AlexGomesDS/lisbon-ebike)**  
+I collected publicly available Gira bike-availability data across Lisbon over a month, then explored usage patterns and forecasting. One finding was a clear daily movement of bikes from outlying areas and train stations towards the city centre in the morning, with the reverse pattern in the evening.
+
+### Technologies
+
+Python · SQL · Spark · LightGBM · scikit-learn · BigQuery · Snowflake · AWS SageMaker · MLflow · Docker
+
+### About me
+
+I'm interested in applying quantitative methods and software engineering to consequential problems across supply chains, sustainability, energy, mobility, and resource efficiency.
